@@ -12,7 +12,7 @@ not in the meeting can read in one minute.
 
 ## Instructions
 
-1. Read the notes the user pasted. If there are none, ask the user to paste them.
+1. Read the notes the user pasted. If there are none, ask the user to paste them. If no clear topic or phrase could serve as a title, write "Not stated" for the title too. Do not try to compose a new title.
 2. Find the meeting title, date, and attendees. If one is missing, write
    "Not stated" for it. Do not guess. List someone as an attendee only if the notes say they were there. A person who is only given a task is not an attendee unless stated.
 3. Pick out the decisions. A decision is something the group agreed to do or
@@ -25,7 +25,7 @@ not in the meeting can read in one minute.
    Copy its headings exactly and in the same order.
 7. If a line in the notes is unclear, keep it in a final section called
    "Needs checking" instead of guessing what it meant. If you are unsure how
-   to word something, read `references/style-guide.md`.
+   to word something, read `references/style-guide.md`. Put a line in Needs checking only if it does not fit decisions, action items, or open questions. Once something is captured in one of those sections, do not also repeat it in Needs checking.
 8. Show the finished summary and stop. Do not add advice or commentary.
 
 ## If you cannot read the template file
