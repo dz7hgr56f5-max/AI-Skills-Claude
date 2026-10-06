@@ -14,12 +14,12 @@ not in the meeting can read in one minute.
 
 1. Read the notes the user pasted. If there are none, ask the user to paste them.
 2. Find the meeting title, date, and attendees. If one is missing, write
-   "Not stated" for it. Do not guess.
+   "Not stated" for it. Do not guess. List someone as an attendee only if the notes say they were there. A person who is only given a task is not an attendee unless stated.
 3. Pick out the decisions. A decision is something the group agreed to do or
-   not do. Write each as one sentence.
+   not do. Write each as one sentence. Opinions and preferences ("we liked", "maybe we should") are not decisions. Put them under Needs checking.
 4. Pick out the action items. An action item has a task, an owner, and a due
    date. If the owner or due date is not in the notes, write "Unassigned" or
-   "No date". Do not invent either.
+   "No date". Do not invent either. If the notes give a vague deadline such as "ASAP" or "soon", write it exactly as stated in the Due field.
 5. Pick out the open questions. These are things raised but not answered.
 6. Write the summary using the layout in `assets/notes-template.md`.
    Copy its headings exactly and in the same order.
